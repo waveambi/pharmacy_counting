@@ -2,8 +2,10 @@
 
 Extrct data from log file, compute total cost and number of unique prescriber, then load into new log file.
 
-### Environment and packages
+### Environment
 python 3.6.5
+
+### Packages
 re == 2.2.1
 
 ### File structure
