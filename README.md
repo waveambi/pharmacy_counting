@@ -23,5 +23,5 @@ insight_testsuite~$ ./run_tests.sh
 
 ## Authors
 
-* **Tao Songn** - *Initial work* - [PurpleBooth](https://github.com/waveambi)
+* **Tao Songn** - *Initial work* - [waveambi](https://github.com/waveambi)
 
