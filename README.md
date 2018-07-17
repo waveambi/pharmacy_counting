@@ -15,7 +15,6 @@ Raw data stored in *input* file and ETL result in *output* file, ETL scripts are
 Firstly the solution read data from log file, clean string with comma in quotes and split every single line with comma seperator safely. Then the solution create a dict {drug_name: [total_cost, set(doctor_name)]} and update it for every single line. Finally reload data into text file with required format.
 
 ### Running ETL script
-
 Use following command in Linux/Mac OS to run bash script to start data processing.
 
 ```
@@ -29,6 +28,9 @@ Use following command inLinux/Mac OS to run bash script in *insight_testsuite* t
 ```
 insight_testsuite~$ ./run_tests.sh
 ```
+
+### Future work
+If having extra time, the scripts could be optimized by adding logging and instruments and adding more data quality check statements to improve robustness.
 
 ### Authors
 
