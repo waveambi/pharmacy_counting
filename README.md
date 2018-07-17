@@ -13,7 +13,7 @@ Use following command in Linux/Mac OS to run bash script to start data processin
 pharmacy_counting_by_Tao~$ ./run.sh
 ```
 
-## Running the tests
+### Running the tests
 
 Use following command inLinux/Mac OS to run bash script in *insight_testsuite* to start automatic unit testing.
 
@@ -21,7 +21,7 @@ Use following command inLinux/Mac OS to run bash script in *insight_testsuite* t
 insight_testsuite~$ ./run_tests.sh
 ```
 
-## Authors
+### Authors
 
 * **Tao Songn** - *Initial work* - [waveambi](https://github.com/waveambi)
 
