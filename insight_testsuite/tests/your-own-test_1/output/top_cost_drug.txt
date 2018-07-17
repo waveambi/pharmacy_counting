@@ -1,0 +1,4 @@
+drug_name,num_prescriber,total_cost
+EPOGEN,3,6200
+Enbrel,1,201
+Repatha Inc,1,101

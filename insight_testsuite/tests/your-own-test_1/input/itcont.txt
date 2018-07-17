@@ -1,0 +1,7 @@
+id,prescriber_last_name,prescriber_first_name,drug_name,drug_cost
+20004,kim,jim,Enbrel,100.5
+20005,kim,jim,Enbrel,100.5
+20006,"Juan, La",Carlos,EPOGEN,2000
+20007,"Juan La, Phd,",Carlos,EPOGEN,4000
+20007,NG," micheal, mason",EPOGEN,200
+20009,"ABC,DF",NG,Repatha Inc,100.9
