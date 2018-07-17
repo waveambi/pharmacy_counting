@@ -2,6 +2,10 @@
 
 Extrct data from log file, compute total cost and number of unique prescriber, then load into new log file.
 
+### Environment and packages
+python 3.6.5
+re == 2.2.1
+
 ### File structure
 Raw data stored in *input* file and ETL result in *output* file, ETL scripts are in *src* file, including *pharmacy_counting* as main script, *help_functions* and *read_process_write* as defined function module.
 
